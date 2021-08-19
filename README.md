@@ -1,1 +1,4 @@
-# raspberry_pi_python_projects
+#  Raspberry Pi Projects in Python
+
+
+This repository contains python scripts used develop electronic and data science projects using the Raspberry Pi 4.
